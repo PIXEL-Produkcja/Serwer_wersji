@@ -1,0 +1,1 @@
+# Ksiegowosc_wer
