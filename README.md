@@ -1,1 +1,2 @@
-# Ksiegowosc_wer
+# Serwer wersji do aplikacji
+### -Księgowość
